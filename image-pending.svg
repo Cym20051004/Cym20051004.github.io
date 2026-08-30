@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">实物图待核验</title>
+  <desc id="desc">该产品尚未取得可追溯的官方实物图片</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff2c9"/><stop offset=".5" stop-color="#f5e8ff"/><stop offset="1" stop-color="#dff8f2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="48" fill="url(#bg)"/>
+  <g transform="translate(282 112)" fill="none" stroke="#7656d6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="25" y="52" width="186" height="150" rx="45" fill="#fff" opacity=".8"/>
+    <path d="M78 52V24M158 52V24"/><circle cx="82" cy="125" r="12" fill="#7656d6"/><circle cx="154" cy="125" r="12" fill="#7656d6"/><path d="M86 164c20 16 44 16 64 0"/>
+    <path d="M0 105h25M211 105h25M78 202v35M158 202v35"/>
+  </g>
+  <text x="400" y="405" text-anchor="middle" font-family="system-ui, sans-serif" font-size="42" font-weight="800" fill="#352c4d">实物图待核验</text>
+  <text x="400" y="460" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#746b83">找到官方或授权来源后再展示</text>
+</svg>
